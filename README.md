@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoyakhan22&label=Profile%20views&color=0e75b6&style=flat" alt="zoyakhan22" /> </p>
 
-- I'm currently Learning **Data Engineering.**
+- I'm currently Learning **Data Analyst.**
 - I'm currently studying **Computer Science Engineering.**
 - I'm interested in **Data Science and Machine Learning.**
 - I'm looking to collaborate with projects related to Data Science.
